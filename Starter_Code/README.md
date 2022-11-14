@@ -114,6 +114,8 @@ Now it's time to put it all together and test the KryptoJobs2Go application with
 
 * Upload the files for this assignment to your GitHub repository.
 
+![Screenshot Submbission](Screenshot.png)
+
 * Submit the link to your GitHub repo on Bootcamp Spot.
 
 ---
